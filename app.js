@@ -30,10 +30,6 @@ client.on("message", message => {
                         }
                     }
                 }
-                else if (message.member.roles.exists("id", role.id)) {
-                    message.member.removeRole(role)
-                    return;
-                }
                 message.member.addRole(role)
             }
         }
