@@ -1,0 +1,24 @@
+﻿{
+  "token": "",
+  "prefix": "!",
+  "roles": [
+    {
+      "command": "boy",
+      "role_name": "Boy",
+      "role_id": "",
+      "group": "Gender"
+    },
+    {
+      "command": "girl",
+      "role_name": "Girl",
+      "role_id": "",
+      "group": "Gender"
+    },
+    {
+      "command": "mercy",
+      "role_name": "Mercy Main",
+      "role_id": "",
+      "group": ""
+    }
+  ]
+}

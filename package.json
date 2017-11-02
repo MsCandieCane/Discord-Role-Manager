@@ -1,0 +1,13 @@
+{
+  "title": "Discord Role Manager",
+  "name": "discord-role-manager",
+  "version": "1.0.0",
+  "description": "A simple role manager for Discord.",
+  "main": "app.js",
+  "author": {
+    "name": "MsCandieCane"
+  },
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
