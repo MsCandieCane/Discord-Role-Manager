@@ -8,4 +8,5 @@ Role Manager lets you allow members of your Discord server to receive roles thro
 
 1. Install nodejs
 2. In the Main Directory, use the command `npm install`
-3. Run app.js
+3. Configure config.json to your liking and add your token.
+4. Run app.js
