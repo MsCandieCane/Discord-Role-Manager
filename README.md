@@ -1,5 +1,5 @@
 # Discord Role Manager
 
-##About
+## About
 
 Role Manager lets you allow members of your Discord server to receive roles through commands.
