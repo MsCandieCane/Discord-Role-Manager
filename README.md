@@ -21,7 +21,7 @@ For the token follow this wounderfuly explained tutorial by reactiflux [here](ht
 
 #### Prefix
 
-This is the prefix for the role command. For example if your prefix is "!" your command will work like `!boy`, while if your prefix is "~" your commands will be used like `~boy`.
+This is the prefix for the role command. For example if your prefix is "!" your command will work like "!boy", while if your prefix is "~" your commands will be used like "~boy".
 
 #### Roles
 
